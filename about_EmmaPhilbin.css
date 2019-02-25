@@ -1,0 +1,17 @@
+/*
+* Emma Philbin
+* February 14, 2019
+* My First Web Page
+*/
+
+/* The universal selector */
+
+* {
+    
+}
+
+/* Body attributes here */
+
+body {
+   background-color: skyblue;
+}

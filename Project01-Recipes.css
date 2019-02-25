@@ -1,0 +1,16 @@
+/*
+* Emma Philbin
+* February 25, 2019
+* Recipe Project
+
+/* The universal selector */
+
+* {
+    
+}
+
+/* Body attributes here */
+
+body {
+   background-color: pink;
+}
