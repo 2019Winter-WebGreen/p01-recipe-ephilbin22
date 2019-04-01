@@ -1,0 +1,23 @@
+/*
+* Emma Philbin
+* 1 April 2019
+* Three of my favorite things with captions and one flaoting right
+*/
+
+/* The universal selector */
+
+* {
+    
+}
+
+/* Body attributes here */
+
+body {
+    background-color: lightcoral;
+}
+
+img {width: 300px; height: 200px;}
+#Mufasa {width: 300px; height: 200px;}
+#chocolate {width: 300px; height: 200px;}
+#Disney {float: right; width: 300px; height: 200px;}
+#characters {float: right;}
